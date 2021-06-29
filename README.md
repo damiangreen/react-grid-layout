@@ -20,19 +20,23 @@ RGL is React-only and does not require jQuery.
 
 ## Table of Contents
 
-- [Demos](#demos)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Usage](#responsive-usage)
-- [Providing Grid Width](#providing-grid-width)
-- [Grid Layout Props](#grid-layout-props)
-- [Responsive Grid Layout Props](#responsive-grid-layout-props)
-- [Grid Item Props](#grid-item-props)
-- [User Recipes](../../wiki/Users-recipes)
-- [Performance](#performance)
-- [Contribute](#contribute)
-- [TODO List](#todo-list)
+- [React-Grid-Layout](#react-grid-layout)
+  - [Table of Contents](#table-of-contents)
+  - [Demos](#demos)
+      - [Projects Using React-Grid-Layout](#projects-using-react-grid-layout)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Usage without Browserify/Webpack](#usage-without-browserifywebpack)
+    - [Responsive Usage](#responsive-usage)
+    - [Providing Grid Width](#providing-grid-width)
+    - [Grid Layout Props](#grid-layout-props)
+    - [Responsive Grid Layout Props](#responsive-grid-layout-props)
+    - [Grid Item Props](#grid-item-props)
+    - [Performance](#performance)
+    - [Custom Child Components and Draggable Handles](#custom-child-components-and-draggable-handles)
+  - [Contribute](#contribute)
+  - [TODO List](#todo-list)
 
 ## Demos
 
@@ -74,6 +78,7 @@ RGL is React-only and does not require jQuery.
 - [Hakkiri](https://www.hakkiri.io)
 - [Ubidots](https://help.ubidots.com/en/articles/2400308-create-dashboards-and-widgets)
 - [Statsout](https://statsout.com/)
+- [Datto RMM](https://www.datto.com/uk/products/rmm/)
 
 *Know of others? Create a PR to let me know!*
 
